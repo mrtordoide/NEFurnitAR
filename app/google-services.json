@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "669024330412",
+    "firebase_url": "https://nefurnitar.firebaseio.com",
+    "project_id": "nefurnitar",
+    "storage_bucket": "nefurnitar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669024330412:android:45b807b8b9cdadf86c3509",
+        "android_client_info": {
+          "package_name": "com.nef3001.nefurnitar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669024330412-rn71mai643vu2mojjcg933f573o4n1ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nef3001.nefurnitar",
+            "certificate_hash": "fc33fdf74b144bb2f8e86dc8649477ac0cbf353a"
+          }
+        },
+        {
+          "client_id": "669024330412-grffbce10f5cvm54g96uhhslb130ujp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nef3001.nefurnitar",
+            "certificate_hash": "cef6e8f2945a453cd2859a0785e2acd3e44cbad4"
+          }
+        },
+        {
+          "client_id": "669024330412-anmit5j6bsgsuueo9npqjim96oth671e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYj7Y4LJWt4eY6tCP90-drFhPugmi9BQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669024330412-anmit5j6bsgsuueo9npqjim96oth671e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

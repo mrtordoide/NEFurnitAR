@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nef3001.NEFurnitAR">
+
+    <!-- Both "AR Optional" and "AR Required" apps require CAMERA permission. -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- Needed to load a glTF from the internet. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.nef3001.NEFurnitAR.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.nef3001.NEFurnitAR.Login"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nef3001.NEFurnitAR.splash_activity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.nef3001.NEFurnitAR.signUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.nef3001.NEFurnitAR.Item_Detail"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.google.ar.core"
+            android:value="optional" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5091759987842562~8434864389" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="com.nef3001.NEFurnitAR.ARactivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.nef3001.NEFurnitAR.cart_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.nef3001.NEFurnitAR.about"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.nef3001.NEFurnitAR.help"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="com.nef3001.NEFurnitAR.internetConnectivity"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.nef3001.NEFurnitAR.HistoryService"></service>
+
+    </application>
+
+</manifest>

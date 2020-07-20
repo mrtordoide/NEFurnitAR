@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/mrtordoide/.gradle/caches/transforms-2/files-2.1/05c24d3402fca5b4fb4aadf9bda727f5/materialize-1.1.2/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,141,263,361,495,573,687,753",
+                        "endColumns": "85,121,97,133,77,113,65,101",
+                        "endOffsets": "136,258,356,490,568,682,748,850"
+                    }
+                },
+                {
+                    "source": "/Users/mrtordoide/.gradle/caches/transforms-2/files-2.1/df558b63ede99a9a6ceca5d5f12efa3a/appcompat-v7-28.0.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "855,925,1009,1093,1189,1291,1393",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "920,1004,1088,1184,1286,1388,1482"
+                    }
+                }
+            ]
+        }
+    ]
+}

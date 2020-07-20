@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/actor</item>
+        <item>@font/aldrich</item>
+        <item>@font/amaranth_bold</item>
+        <item>@font/amiko_semibold</item>
+        <item>@font/audiowide</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/chewy</item>
+        <item>@font/doppio_one</item>
+        <item>@font/faster_one</item>
+        <item>@font/julee</item>
+    </array>
+</resources>

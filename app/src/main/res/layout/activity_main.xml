@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="0px"
+        android:layout_height="0px"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_main"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="10dp"
+        android:theme="@style/ToolbarIcon">
+
+
+        <TextView
+            android:id="@+id/brand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="-20dp"
+            android:fontFamily="@font/amaranth_bold"
+            android:shadowColor="#392323"
+            android:shadowDx="5"
+            android:shadowDy="5"
+            android:shadowRadius="3"
+            android:text="NEFurnitAR"
+            android:textColor="#42A5F5"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+    </android.support.v7.widget.Toolbar>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="-20dp"
+        android:text="Filter Products:"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/ar_filter"
+            android:layout_width="135dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/md_light_blue_A400"
+            android:onClick="showAR"
+            android:text="AR"
+            android:textColor="@color/cart"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/ar_filter6"
+            android:layout_width="25dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@color/md_light_blue_A400"
+            android:onClick="showCabinet"
+            android:text="Cabinets"
+            android:textAllCaps="false"
+            android:textColor="@color/cart"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/ar_filter2"
+            android:layout_width="6dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@color/md_light_blue_A400"
+            android:onClick="showBed"
+            android:text="Beds"
+            android:textAllCaps="false"
+            android:textColor="@color/cart"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="-5dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/ar_filter5"
+            android:layout_width="20dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@color/md_light_blue_A400"
+            android:onClick="showChair"
+            android:text="Chairs"
+            android:textAllCaps="false"
+            android:textColor="@color/cart"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/ar_filter3"
+            android:layout_width="24dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@color/md_light_blue_A400"
+            android:onClick="showWardrobe"
+            android:text="Wardrobes"
+            android:textAllCaps="false"
+            android:textColor="@color/cart"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/ar_filter4"
+            android:layout_width="6dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@color/md_light_blue_A400"
+            android:onClick="showSofa"
+            android:text="Sofas"
+            android:textAllCaps="false"
+            android:textColor="@color/cart"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>
+
+

@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher1_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xhdpi/ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher1_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-hdpi/ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_bg.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/bg.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_background_cart.jpg.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/background_cart.jpg"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_activity_aractivity.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/activity_aractivity.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_menu_gallery.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_lock_outline_white_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_lock_outline_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_acme.ttf.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/acme.ttf"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_b_style1.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/b_style1.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_cart_view.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/cart_view.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_doppio_one.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/doppio_one.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_bungee_shade.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/bungee_shade.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_person_outline_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_person_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_menu_camera.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-hdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_chewy.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/chewy.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_julee.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/julee.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_actor.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/actor.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_attach_money_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_b_style2.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/b_style2.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_activity_sign_up.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher1_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxxhdpi/ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_activity_sign_up.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_activity_splash_activity.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/activity_splash_activity.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_activity_cart_activity.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/activity_cart_activity.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_search_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_help_24.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_help_24.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xhdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher1_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxhdpi/ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ar_button.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ar_button.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_menu_manage.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_activity_aractivity.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/activity_aractivity.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxxhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_chair.jpg.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/chair.jpg"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_et.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/et.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_logo1.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/logo1.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_list_item.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/list_item.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxxhdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_lock_outline_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_lock_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_menu_share.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher1_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-mdpi/ic_launcher1_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_menu_send.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_send_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_send_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_subject_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_subject_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_about_24.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_about_24.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_aldrich.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/aldrich.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_audiowide.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/audiowide.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/anim_blink.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/anim/blink.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_shopping_cart_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_amaranth_bold.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/amaranth_bold.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_launcher1_background.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_launcher1_background.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_activity_login.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/activity_login.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher1.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-anydpi-v26/ic_launcher1.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-mdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_menu_slideshow.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_delete_sweep_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_delete_sweep_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_activity_cart_activity.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/activity_cart_activity.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_person_outline_white_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_person_outline_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_activity_item__detail.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/activity_item__detail.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxhdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_item_view.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/item_view.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-hdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xhdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher1_round.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-anydpi-v26/ic_launcher1_round.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_faster_one.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/faster_one.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_category_24.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_category_24.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_cart_view.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/cart_view.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_bgapp.jpg.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/bgapp.jpg"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_black_ops_one.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/black_ops_one.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_activity_item__detail.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/activity_item__detail.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_cancel_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_cancel_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher1_round.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/mipmap-mdpi/ic_launcher1_round.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout-large_activity_main.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout-large/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_non_ar.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/non_ar.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/font_amiko_semibold.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/font/amiko_semibold.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/drawable_furnit.png.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/drawable/furnit.png"
+    },
+    {
+        "merged": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/res/merged/debug/layout_item_view.xml.flat",
+        "source": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/src/main/res/layout/item_view.xml"
+    }
+]
