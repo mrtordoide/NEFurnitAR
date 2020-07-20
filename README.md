@@ -12,5 +12,5 @@
 
  ## HOMEPAGE AND DEMO
 
-[Our Website](https://nefurnitar.tordoide.com)
+[Our Website](https://nefurnitar.tordoide.com) | 
 [Check out our app overview on YouTube!](https://www.youtube.com/watch?v=k_SF1qoTpvU)
