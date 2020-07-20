@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mrtordoide/MEGAsync/projects/VUS - FInal Project/NEFurnitAR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/mrtordoide/.gradle/caches/transforms-2/files-2.1/05c24d3402fca5b4fb4aadf9bda727f5/materialize-1.1.2/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,12,17,23,27,36,41,45,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,615,915,1215,1511,1933,2245,2421,2609",
+                        "endLines": "7,11,16,22,26,35,40,44,48,52",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "326,610,910,1210,1506,1928,2240,2416,2604,2816"
+                    }
+                }
+            ]
+        }
+    ]
+}
